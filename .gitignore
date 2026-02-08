@@ -1,0 +1,28 @@
+## IDE
+.idea/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.DotSettings
+*.DotSettings.user
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+
+## NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+## Logs
+*.log
